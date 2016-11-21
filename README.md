@@ -1,2 +1,2 @@
 # kexcos
-os for a raspberry pi 3
+os for a light weight computer
